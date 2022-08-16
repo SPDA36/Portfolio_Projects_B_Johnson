@@ -1,7 +1,8 @@
 
 # Brandon Johnson
 
-This is an introduction page about myself.  Thanks for stopping by!
+This is an introduction section about myself.  Thanks for stopping by!
+My projects are in the files above.
 
 
 ## About Me
