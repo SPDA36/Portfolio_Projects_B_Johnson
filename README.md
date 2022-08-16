@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello
+This repository is for accessing my data science related projects.  Projects will be uploaded as I complete them.
+
 
 <!--
 **SPDA36/SPDA36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
