@@ -1,18 +1,29 @@
-### Hello
-This repository is for accessing my data science related projects.  Projects will be uploaded as I complete them.
+
+# Brandon Johnson
+
+This is an introduction page about myself.  Thanks for stopping by!
 
 
-<!--
-**SPDA36/SPDA36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a full stack Data Scientist and Business Analysis student.
 
-Here are some ideas to get you started:
+I am finishing up a BS in Business Analytics (ETA 2023).  My
+Business Analytics degree encompasses many elements of a 
+business administration degree but also focuses primarily on 
+analytics for decision making and business intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I concurrently take many data science related courses on Udemy and
+Coursera to gain applied analytics and machine learning experience.  
+These courses have enabled me to gain knowledge and hands on 
+experience with the technologies needed to model solutions for businesses.
+
+
+My goal is to hedge my business related education and 
+blend it with data science so that I can become a Data Scientist 
+who not only understands the technological tools needed for 
+businesses to thrive but also understands the inner workings of 
+a business.  Knowing what managers need before they ask for it
+is a skill I believe is important.  I am confident that blending 
+my business education and data science together will prove that 
+to be so.
+
