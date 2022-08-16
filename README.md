@@ -25,6 +25,6 @@ who not only understands the technological tools needed for
 businesses to thrive but also understands the inner workings of 
 a business.  Knowing what managers need before they ask for it
 is a skill I believe is important.  I am confident that blending 
-my business education and data science together will prove that 
+my business education and data science skills together will prove that 
 to be so.
 
