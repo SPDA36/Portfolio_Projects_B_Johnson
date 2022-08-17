@@ -23,8 +23,8 @@ My goal is to hedge my business related education and
 blend it with data science so that I can become a Data Scientist 
 who not only understands the technological tools needed for 
 businesses to thrive but also understands the inner workings of 
-a business.  Knowing what managers need before they ask for it
-is a skill I believe is important.  I am confident that blending 
-my business education and data science skills together will prove that 
+a business.  Knowing what managers need before they ask
+is a skill that I believe is important.  I am confident that blending 
+my business analytics education and data science skills together will prove that 
 to be so.
 
