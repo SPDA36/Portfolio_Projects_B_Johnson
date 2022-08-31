@@ -4,7 +4,3 @@ pandas
 matplotlib
 seaborn
 sklearn
-sklearn.model_selection
-sklearn.svm
-sklearn.neighbors
-sklearn.metrics
